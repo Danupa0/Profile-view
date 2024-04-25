@@ -12,7 +12,7 @@
 
 /**
 
-* @project_name : spy-x-md
+* @project_name : SPY-X-MD
 * @Developer : Danupa-Xz
 * @Version : v.1.2.7
 * @license : APACHE-2.0
